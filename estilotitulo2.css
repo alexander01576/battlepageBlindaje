@@ -1,0 +1,18 @@
+*{
+	font-family: arial;
+
+}
+body{
+	padding:0;
+	margin:0;
+}
+
+.header{
+	background-color: #AC58FA;
+	color: #CEF6F5;
+	padding: 30px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	font-transform: uppercase;
+}
